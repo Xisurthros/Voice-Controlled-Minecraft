@@ -1,6 +1,6 @@
-import speech_recognition as sr  # pip install SpeechRecognition
+import speech_recognition as sr
 import os
-from gtts import gTTS  # pip install gTTS    ALSOOOOO pip install pipwin AND THEN pipwin install pyaudio
+from gtts import gTTS 
 import warnings
 import pydirectinput
 import time
